@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "ams-db.cfgo4m4ia7lk.eu-north-1.rds.amazonaws.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "AMS",
+            "username": "admin",
+            "password": "vigneshnithilprathap",
+            "name": "amsDB"
+        }
+    ]
+}
